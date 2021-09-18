@@ -1,4 +1,5 @@
-cm="bcm"
+cm="cm" # executable or path to plastic scm console binary
+
 # aliases
 alias cms="$cm status"
 
