@@ -1,6 +1,8 @@
-# Plastic plugin
+# Plastic SCM plugin
 
-This plugin adds some handy aliases for using Plastic as well as a few
+Plastic SCM is a version control to help teams focus on delivering work, one task at a time. You can find it [here](https://www.plasticscm.com/)
+
+This plugin adds some handy aliases for using Plastic SCM as well as a few
 utility and prompt functions that can be used in a theme.
 
 To use it, add `plasticscm` to the plugins array in your zshrc file:
